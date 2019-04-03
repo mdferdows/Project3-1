@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fire_Base</string>
+    <string name="Button">Login</string>
+    <string name="Mail">Enter Your email</string>
+    <string name="Password">Enter your password</string>
+    <string name="SigninButton">Signin</string>
+    <string name="SignupButton">Signup</string>
+    <string name="RegisterButton">Registered</string>
+
+
+</resources>
