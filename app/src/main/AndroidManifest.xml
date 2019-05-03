@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".SigninActivity" />
         <activity android:name=".SignupActivity" />
-        <activity android:name=".Menu_activity"></activity>
+        <activity android:name=".Menu_activity" />
+        <activity android:name=".ButtonActivity"></activity>
     </application>
 
 </manifest>

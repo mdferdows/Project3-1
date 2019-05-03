@@ -7,5 +7,11 @@
     <string name="SignupButton">Signup</string>
     <string name="RegisterButton">Registered</string>
 
+    <string name="Linktosite">
+
+        <a href = "https://maps.app.goo.gl/CoFgjR5S8487XGbR7">Track</a>
+
+    </string>
+
 
 </resources>
